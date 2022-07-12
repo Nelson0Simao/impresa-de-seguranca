@@ -17,9 +17,7 @@ body{
     height: 100vh;
 }
 /* for sumo sized (mac) screens */
-body{
-        background:rgb(141, 132, 132);
-}
+
 header.header{
     background:#222222;
     display: flex;
